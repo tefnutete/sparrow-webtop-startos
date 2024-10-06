@@ -3,3 +3,4 @@
 .DS_Store
 scripts/*.js
 docker-images
+NOTES.md
